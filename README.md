@@ -1,6 +1,6 @@
 <div align="center">
 
-# StrideZero (v1.5 Beta)
+# StrideZero (v1.5)
 **A private-first, highly optimized Android tracker for walking, running, and cycling.**
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](#)
