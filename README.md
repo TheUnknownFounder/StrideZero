@@ -1,10 +1,9 @@
 <div align="center">
 
-# StrideZero (v1.5)
+# StrideZero
 **A private-first, highly optimized Android tracker for walking, running, and cycling.**
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](#)
-[![Size](https://img.shields.io/badge/Size_Target-<200MB-blue)](#)
 [![Creator](https://img.shields.io/badge/Creator-@TheUnknownFounder-ff69b4)](#)
 
 *Tracking, history, encrypted transfer backups, and Stride AI—all working completely offline.*
